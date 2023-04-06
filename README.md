@@ -12,4 +12,4 @@ To use the blur-detection project, you will need to install the following Python
 
 NumPy
 OpenCV
-Scikit-image
+Scikit-image     and many more 
